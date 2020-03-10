@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="992d6d73-34af-4c68-8de3-bcd2915f7ec7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y4JbmJbYg5tIb1rQ37DPQERm7j" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ETL" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.Line Plots">
+    <configuration name="Line Plots" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Matplotlib" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Line Plots.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Matplotlib" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Line Plots" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="992d6d73-34af-4c68-8de3-bcd2915f7ec7" name="Default Changelist" comment="" />
+      <created>1582196006142</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582196006142</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="664" y="230" width="642" height="764" key="#Line_Plots" timestamp="1583143965196">
+      <screen x="61" y="27" width="1859" height="1173" />
+    </state>
+    <state x="664" y="230" width="642" height="764" key="#Line_Plots/61.27.1859.1173@61.27.1859.1173" timestamp="1583143965196" />
+    <state x="448" y="270" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582196119326">
+      <screen x="61" y="27" width="1859" height="1173" />
+    </state>
+    <state x="448" y="270" key="#com.intellij.execution.impl.EditConfigurationsDialog/61.27.1859.1173@61.27.1859.1173" timestamp="1582196119326" />
+    <state x="664" y="230" width="642" height="764" key="#test" timestamp="1582196139479">
+      <screen x="61" y="27" width="1859" height="1173" />
+    </state>
+    <state x="664" y="230" width="642" height="764" key="#test/61.27.1859.1173@61.27.1859.1173" timestamp="1582196139479" />
+    <state x="773" y="370" width="424" height="484" key="FileChooserDialogImpl" timestamp="1582520930214">
+      <screen x="61" y="27" width="1859" height="1173" />
+    </state>
+    <state x="773" y="370" width="424" height="484" key="FileChooserDialogImpl/61.27.1859.1173@61.27.1859.1173" timestamp="1582520930214" />
+    <state width="1836" height="318" key="GridCell.Tab.0.bottom" timestamp="1582289918641">
+      <screen x="61" y="27" width="1859" height="1173" />
+    </state>
+    <state width="1836" height="318" key="GridCell.Tab.0.bottom/61.27.1859.1173@61.27.1859.1173" timestamp="1582289918641" />
+    <state width="1836" height="318" key="GridCell.Tab.0.center" timestamp="1582289918640">
+      <screen x="61" y="27" width="1859" height="1173" />
+    </state>
+    <state width="1836" height="318" key="GridCell.Tab.0.center/61.27.1859.1173@61.27.1859.1173" timestamp="1582289918640" />
+    <state width="1836" height="318" key="GridCell.Tab.0.left" timestamp="1582289918640">
+      <screen x="61" y="27" width="1859" height="1173" />
+    </state>
+    <state width="1836" height="318" key="GridCell.Tab.0.left/61.27.1859.1173@61.27.1859.1173" timestamp="1582289918640" />
+    <state width="1836" height="318" key="GridCell.Tab.0.right" timestamp="1582289918640">
+      <screen x="61" y="27" width="1859" height="1173" />
+    </state>
+    <state width="1836" height="318" key="GridCell.Tab.0.right/61.27.1859.1173@61.27.1859.1173" timestamp="1582289918640" />
+    <state x="479" y="247" key="SettingsEditor" timestamp="1583144029068">
+      <screen x="61" y="27" width="1859" height="1173" />
+    </state>
+    <state x="479" y="247" key="SettingsEditor/61.27.1859.1173@61.27.1859.1173" timestamp="1583144029068" />
+    <state x="646" y="440" key="com.intellij.ide.util.TipDialog" timestamp="1582520723529">
+      <screen x="61" y="27" width="1859" height="1173" />
+    </state>
+    <state x="646" y="440" key="com.intellij.ide.util.TipDialog/61.27.1859.1173@61.27.1859.1173" timestamp="1582520723529" />
+  </component>
+</project>
